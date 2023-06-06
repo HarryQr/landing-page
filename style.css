@@ -19,7 +19,6 @@ body {
     background-color: #1F2937;
     padding: 20px 0px 20px 100px;
     align-items: center;
-    font-style: bold;
 }
 
 .header-logo img {
@@ -101,6 +100,7 @@ h1 {
 
 .content-info {
     display: flex;
+    /* border: 1px solid gold; */
     justify-content: center;
     flex-wrap: wrap;
 }
@@ -133,6 +133,7 @@ h1 {
 }
 
 .quote b {
+    color: #1F2937;
     padding-bottom: 20px;
     padding-right: 10px;
     font-family: 'Roboto', arial;
@@ -144,7 +145,7 @@ h1 {
 .sign-up {
     background-color: #3882f6;
     margin: 50px 200px;
-    padding: 110px 80px;
+    padding: 10px 80px;
     display: flex;
     align-items: center;
     border-radius: 5px;
